@@ -1,0 +1,3 @@
+- Adicionar o Theme no projeto ✅
+- Adicionar CSS global ✅
+- Criar branch develop
