@@ -1,3 +1,4 @@
 - Adicionar o Theme no projeto ✅
 - Adicionar CSS global ✅
-- Criar branch develop
+- Criar branch develop ✅
+- Adicionar links dinâmicos 

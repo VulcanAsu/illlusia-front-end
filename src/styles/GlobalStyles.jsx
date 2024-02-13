@@ -37,5 +37,6 @@ export default createGlobalStyle`
   input{
     border: none;
     outline: none;
+    background: none;
   }
 `;
