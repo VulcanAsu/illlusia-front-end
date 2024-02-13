@@ -1,4 +1,6 @@
 - Adicionar o Theme no projeto ✅
 - Adicionar CSS global ✅
 - Criar branch develop ✅
-- Adicionar links dinâmicos 
+- Adicionar links dinâmicos
+- Adicionar biblioteca react form para validar e pegar os dados do formulário
+- Otimizar o carregamento da imagem de fundo de login
